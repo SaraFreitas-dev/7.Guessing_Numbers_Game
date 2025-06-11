@@ -36,13 +36,13 @@ When the program runs, it:
 ## 🖥️ Example Output
 
 📎 Game start:  
-<img src="./img/start_example.png" width="400">
+<img src="./img/start_example.png" width="450">
 
 📎 Win screen:  
-<img src="./img/win_example.png" width="400">
+<img src="./img/win_example.png" width="450">
 
 📎 Lose screen:  
-<img src="./img/lose_example.png" width="400">
+<img src="./img/lose_example.png" width="450">
 
 ---
 
